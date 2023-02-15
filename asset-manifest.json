@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://tap.fierce.academy/static/css/main.c7659b87.css",
-    "main.js": "https://tap.fierce.academy/static/js/main.cafc7e39.js",
+    "main.css": "https://tap.fierce.academy/static/css/main.5d0e17a1.css",
+    "main.js": "https://tap.fierce.academy/static/js/main.7a76e495.js",
     "static/media/roboto-all-500-normal.woff": "https://tap.fierce.academy/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "https://tap.fierce.academy/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "https://tap.fierce.academy/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
@@ -9,7 +9,6 @@
     "static/media/metronome-left.png": "https://tap.fierce.academy/static/media/metronome-left.b595611972ec1e1c300e.png",
     "static/media/quarter-note.png": "https://tap.fierce.academy/static/media/quarter-note.9ba957b74a6cd89093ae.png",
     "static/media/metronome-right.png": "https://tap.fierce.academy/static/media/metronome-right.878b4642144032758a2d.png",
-    "static/media/bubbly-button.svg": "https://tap.fierce.academy/static/media/bubbly-button.5dc8fa95c438a585f1895c7713b9aa44.svg",
     "static/media/metronome-mid-left.png": "https://tap.fierce.academy/static/media/metronome-mid-left.ec94aab7881d43ddbbf1.png",
     "static/media/metronome-mid-right.png": "https://tap.fierce.academy/static/media/metronome-mid-right.b8593ac3ba08a80511cd.png",
     "static/media/sixteenth-note-triplet.png": "https://tap.fierce.academy/static/media/sixteenth-note-triplet.92b61f21285c6324c9ea.png",
@@ -45,11 +44,11 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "https://tap.fierce.academy/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "https://tap.fierce.academy/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "https://tap.fierce.academy/index.html",
-    "main.c7659b87.css.map": "https://tap.fierce.academy/static/css/main.c7659b87.css.map",
-    "main.cafc7e39.js.map": "https://tap.fierce.academy/static/js/main.cafc7e39.js.map"
+    "main.5d0e17a1.css.map": "https://tap.fierce.academy/static/css/main.5d0e17a1.css.map",
+    "main.7a76e495.js.map": "https://tap.fierce.academy/static/js/main.7a76e495.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7659b87.css",
-    "static/js/main.cafc7e39.js"
+    "static/css/main.5d0e17a1.css",
+    "static/js/main.7a76e495.js"
   ]
 }
