@@ -1,6 +1,18 @@
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
 /**
  * @license React
  * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-is.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
@@ -39,20 +51,8 @@
  */
 
 /**
- * Tone.js
- * @author Yotam Mann
- * @license http://opensource.org/licenses/MIT MIT License
- * @copyright 2014-2019 Yotam Mann
- */
-
-/** @license MUI v5.8.0
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-/** @license React v16.13.1
- * react-is.production.min.js
+ * @license React
+ * use-sync-external-store-shim.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
@@ -60,7 +60,32 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v17.0.2
+/**
+ * @license React
+ * use-sync-external-store-shim/with-selector.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @mui/styled-engine v5.11.11
+ *
+ * @license MIT
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * Tone.js
+ * @author Yotam Mann
+ * @license http://opensource.org/licenses/MIT MIT License
+ * @copyright 2014-2019 Yotam Mann
+ */
+
+/** @license React v16.13.1
  * react-is.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
